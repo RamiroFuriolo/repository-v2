@@ -1,0 +1,3 @@
+[submodule "krloss.github.io"]
+	path = krloss.github.io
+	url = git@github.com:krloss86/krloss.github.io.git
